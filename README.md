@@ -3,9 +3,9 @@
 
 Software Engineering Professional, MBA: [Download CV (PDF)](https://github.com/kubrairis/kubrairis/blob/main/CV.pdf)
 
-LinkedIn: [https://www.linkedin.com/in/kubrairis/](https://www.linkedin.com/in/kubrairis/)
-Portfolio: [https://www.hyperiondev.com/portfolio/142503/](https://www.hyperiondev.com/portfolio/142503/)
-GitHub: [https://github.com/kubrairis](https://github.com/kubrairis)
+- LinkedIn: [https://www.linkedin.com/in/kubrairis/](https://www.linkedin.com/in/kubrairis/)
+- Portfolio: [https://www.hyperiondev.com/portfolio/142503/](https://www.hyperiondev.com/portfolio/142503/)
+- GitHub: [https://github.com/kubrairis](https://github.com/kubrairis)
 
 Address: Knutsford, Cheshire, UK
 Phone: +44 7871 741264
