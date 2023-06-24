@@ -8,7 +8,9 @@
 - GitHub: [https://github.com/kubrairis](https://github.com/kubrairis)
 
 ⚡Address: Knutsford, Cheshire, UK
+
 💬Phone: +44 7871 741264
+
 📫Email: kubrairis@gmail.com
 
 ## SUMMARY
