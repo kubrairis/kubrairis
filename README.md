@@ -3,9 +3,9 @@
 
 🌱Software Engineering Professional, MBA: [Download CV (PDF)](https://github.com/kubrairis/kubrairis/blob/main/CV.pdf)
 
--⚡Address: Knutsford, Cheshire, UK
--💬Phone: +44 7871 741264
--📫Email: kubrairis@gmail.com
+⚡Address: Knutsford, Cheshire, UK
+💬Phone: +44 7871 741264
+📫Email: kubrairis@gmail.com
 
 - LinkedIn: [https://www.linkedin.com/in/kubrairis/](https://www.linkedin.com/in/kubrairis/)
 - Portfolio: [https://www.hyperiondev.com/portfolio/142503/](https://www.hyperiondev.com/portfolio/142503/)
