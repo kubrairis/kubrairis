@@ -1,15 +1,15 @@
 # KUBRA IRIS - Junior Software Developer
 ![Profile Picture](https://avatars.githubusercontent.com/u/126989270?v=4)
 
-Software Engineering Professional, MBA: [Download CV (PDF)](https://github.com/kubrairis/kubrairis/blob/main/CV.pdf)
+🌱Software Engineering Professional, MBA: [Download CV (PDF)](https://github.com/kubrairis/kubrairis/blob/main/CV.pdf)
 
 - LinkedIn: [https://www.linkedin.com/in/kubrairis/](https://www.linkedin.com/in/kubrairis/)
 - Portfolio: [https://www.hyperiondev.com/portfolio/142503/](https://www.hyperiondev.com/portfolio/142503/)
 - GitHub: [https://github.com/kubrairis](https://github.com/kubrairis)
 
-Address: Knutsford, Cheshire, UK
-Phone: +44 7871 741264
-Email: kubrairis@gmail.com
+⚡Address: Knutsford, Cheshire, UK
+💬Phone: +44 7871 741264
+📫Email: kubrairis@gmail.com
 
 ## SUMMARY
 PROFESSIONAL EXPERIENCE
@@ -103,25 +103,5 @@ I am actively expanding my skills and knowledge in the following tech stacks:
   - LinkedIn: [/donna-marie-lord-9725b3102/](LinkedIn:/donna-marie-lord-9725b3102/)
   - Tel: (+44)7871 741264 (Mutlu Iris)
   - Tel: (+44)7967 202331 (Donna Marie Lord)
-    
-![Portfolio Image 1](https://example.com/portfolio-image-1.jpg)
-![Portfolio Image 2](https://example.com/portfolio-image-2.jpg)
-![Portfolio Image 3](https://example.com/portfolio-image-3.jpg)
 
 [Download CV (PDF)](https://github.com/kubrairis/kubrairis/blob/main/CV.pdf)
-
-
-<!--
-**kubrairis/kubrairis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
