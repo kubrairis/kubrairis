@@ -1,5 +1,5 @@
 # KUBRA IRIS - Junior Software Developer
-
+![Profile Picture](https://avatars.githubusercontent.com/u/126989270?v=4)
 
 Software Engineering Professional, MBA: [Download CV (PDF)](https://github.com/kubrairis/kubrairis/blob/main/CV.pdf)
 
