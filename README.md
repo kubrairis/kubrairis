@@ -1,12 +1,14 @@
-### Hi there 👋
+# KUBRA IRIS - Junior Software Developer
 
-# KUBRA IRIS
 Software Engineering Professional, MBA
 LinkedIn: [https://www.linkedin.com/in/kubrairis/](https://www.linkedin.com/in/kubrairis/)
+
 Phone: +44 7871 741264
 GitHub: [https://github.com/kubrairis](https://github.com/kubrairis)
+
 Address: Knutsford, Cheshire, UK
 Portfolio: [https://www.hyperiondev.com/portfolio/142503/](https://www.hyperiondev.com/portfolio/142503/)
+
 Email: kubrairis@gmail.com
 
 ## SUMMARY
@@ -101,6 +103,12 @@ I am actively expanding my skills and knowledge in the following tech stacks:
   - LinkedIn: [/donna-marie-lord-9725b3102/](LinkedIn:/donna-marie-lord-9725b3102/)
   - Tel: (+44)7871 741264 (Mutlu Iris)
   - Tel: (+44)7967 202331 (Donna Marie Lord)
+    
+![Portfolio Image 1](https://example.com/portfolio-image-1.jpg)
+![Portfolio Image 2](https://example.com/portfolio-image-2.jpg)
+![Portfolio Image 3](https://example.com/portfolio-image-3.jpg)
+
+[Download CV (PDF)](https://github.com/kubrairis/kubrairis/blob/main/CV.pdf)
 
 
 <!--
