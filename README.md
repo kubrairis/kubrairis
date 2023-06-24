@@ -1,15 +1,19 @@
 # KUBRA IRIS - Junior Software Developer
+[Download CV (PDF)](https://github.com/kubrairis/kubrairis/blob/main/CV.pdf)
 
-Software Engineering Professional, MBA
-LinkedIn: [https://www.linkedin.com/in/kubrairis/](https://www.linkedin.com/in/kubrairis/)
+-Software Engineering Professional, MBA
 
-Phone: +44 7871 741264
-GitHub: [https://github.com/kubrairis](https://github.com/kubrairis)
+-LinkedIn: [https://www.linkedin.com/in/kubrairis/](https://www.linkedin.com/in/kubrairis/)
 
-Address: Knutsford, Cheshire, UK
-Portfolio: [https://www.hyperiondev.com/portfolio/142503/](https://www.hyperiondev.com/portfolio/142503/)
+-Phone: +44 7871 741264
 
-Email: kubrairis@gmail.com
+-GitHub: [https://github.com/kubrairis](https://github.com/kubrairis)
+
+-Address: Knutsford, Cheshire, UK
+
+-Portfolio: [https://www.hyperiondev.com/portfolio/142503/](https://www.hyperiondev.com/portfolio/142503/)
+
+-Email: kubrairis@gmail.com
 
 ## SUMMARY
 PROFESSIONAL EXPERIENCE
